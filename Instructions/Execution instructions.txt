@@ -1,0 +1,16 @@
+#This document will be used to provide execution instructions.
+#In order to execute the application, you have the next two options:
+
+#1) Open the proyect  in a windows IDE, and run the main file. For example, we recommend to use VSCode
+# as it provides extensions to open the database. You just have to go to the extensions 
+#section and install SQLite. Each time you stop the running, you will have to run again
+#the main file and enter the master password you have creted.
+
+#2) Open the windows cmd as administrator, ans go to the directory where you saved the project
+# Once in the directory, run "pyhton main.py" and the program will start running. Using this 
+#option you won't be able to see the db. Once, you close the app, you will have to run
+#again the same instruction "main.py" and you will be asked for the master password.
+
+#-------------- Master password ----------------------------
+#We recommend you to keep this password in a safe place, as you won't be able to acces
+#the application if you forget it, and all the data will be lost.
